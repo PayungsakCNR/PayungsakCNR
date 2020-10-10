@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at PaOCLOUD ACADEMY , Namsai Thai Co., Ltd. , Next Hop Co., Ltd.
+- 🔭 I’m currently working at PAOCLOUD CO., LTD. , Namsai Thai Co., Ltd. , Next Hop Co., Ltd.
 - 🌱 I’m currently learning Type Script , AWS , Google cloud , Cisco
 - 💬 Ask me about anything
 - 📫 How to reach me: [payungsak.k@paocloud.co.th](mailto:payungsak.k@paocloud.co.th) , [fb.com/paov6](https://fb.com/paov6)
