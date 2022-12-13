@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at [PAOCLOUD CO., LTD.](https://www.paocloud.co.th) , [Namsai Thai Co., Ltd.](https://www.namsaithai.com) , [Next Hop Co., Ltd.](https://www.nexthop.co.th)
+- 🔭 I’m currently working at [PAOCLOUD CO., LTD.](https://www.paocloud.co.th) , [Next Hop Co., Ltd.](https://www.nexthop.co.th)
 - 🌱 I’m currently learning Type Script , AWS , Google cloud , Cisco
-- 💬 Ask me about anything
+- 💬 Ask me about anythings.
 - 📫 How to reach me: [payungsak.k@paocloud.co.th](mailto:payungsak.k@paocloud.co.th) , [fb.com/paov6](https://fb.com/paov6)
 
 # ⚡ Favorite languages and tools
