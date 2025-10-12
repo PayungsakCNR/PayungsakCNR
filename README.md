@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at [PAOCLOUD CO., LTD.](https://www.paocloud.co.th) , [Next Hop Co., Ltd.](https://www.nexthop.co.th) , [ALALA CO., LTD.](https://www.alala.co.th)
+- 🔭 I’m currently working at [PAOCLOUD CO., LTD.](https://www.paocloud.co.th) , [Next Hop Co., Ltd.](https://www.nexthop.co.th) , [ALALA CO., LTD.](https://www.alala.co.th) , [AS133504](https://landing.as133504.net)
 - 🌱 I’m currently learning Type Script , AWS , Google cloud , Cisco
 - 💬 Ask me about anythings.
 - 📫 How to reach me: [payungsak.k@paocloud.co.th](mailto:payungsak.k@paocloud.co.th) , [fb.com/paov6](https://fb.com/paov6)
